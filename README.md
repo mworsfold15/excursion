@@ -1,10 +1,11 @@
-# Project Name
-> Excursion Smartphone App Advert Website
+# Excursion Smartphone App Advert
+> A minimal marketing website design for a smartphone app
 
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
+* [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
@@ -18,6 +19,9 @@ This is an example marketing website for a new smartphone app
 ## Technologies
 * HTML 5
 * CSS 3
+
+## Setup 
+[View the site here](https://mworsfold15.github.io/excursion/)
 
 ## Features
 * Video auto plays upon opening

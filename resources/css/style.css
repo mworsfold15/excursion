@@ -8,7 +8,6 @@ h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
 a {
@@ -18,12 +17,16 @@ a {
     text-decoration: underline;
 }
 
+video {
+    margin-top: 20px;
+}
+
 p {
     font-size: 21px;
     color: gray;
 }
 
-#travel {
+.sub-heading {
     font-weight: 300;
     font-size: 42px;
 }

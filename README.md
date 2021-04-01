@@ -21,7 +21,7 @@ This is an example marketing website for a new smartphone app
 * CSS 3
 
 ## Setup 
-[View the site here](https://mworsfold15.github.io/excursion/)
+<a href="https://mworsfold15.github.io/excursion/" target="_blank">View the site here</a>
 
 ## Features
 * Video auto plays upon opening
